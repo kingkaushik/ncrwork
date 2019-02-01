@@ -10,6 +10,7 @@ namespace hello
     {
         static void Main(string[] args)
         {
+            cout << "Hello World" << end;//error code
         }
     }
 }
